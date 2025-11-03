@@ -40,7 +40,7 @@ input {
   
 input:focus,
 input:hover {
-    outline: 2px solid oklch(52.7% 0.15 264.3);
+    outline: 2px solid black(52.7% 0.15 264.3);
 }
 
 input + label {
