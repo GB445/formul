@@ -4,12 +4,12 @@
   
 body {
     font-size: 1.6rem;
-    background: oklch(20.8% 0.042 265.755);
-    color: #FFF;
+    background:Black;
+    color: #23;
 }
   
 #page {
-    max-width: 120rem;
+    max-width: 126rem;
     margin-inline: auto;
 }
   
@@ -40,8 +40,7 @@ input {
   
 input:focus,
 input:hover {
-    outline: 2px solid black(52.7% 0.15 264.3);
-}
+    outline: 2px White;}
 
 input + label {
     display: inline;
@@ -63,7 +62,7 @@ button {
     margin-bottom: 2rem;
     background: oklch(52.7% 0.154 150.069);
     border: none;
-    color: #FFF;
+    color: Blue;
     border-radius: 1rem;
     font-weight: bold;
 }
