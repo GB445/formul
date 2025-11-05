@@ -60,7 +60,7 @@ textarea {
 button {
     padding: 1rem 2rem;
     margin-bottom: 2rem;
-    background: oklch(52.7% 0.154 150.069);
+    background: okchl(98.7% 0.456 671.069);
     border: none;
     color: Blue;
     border-radius: 1rem;
@@ -68,7 +68,7 @@ button {
 }
 
 button:hover {
-    background: oklch(62.7% 0.194 149.214);
+    background: oklch(51.7% 0.789 457.27);
     cursor: pointer;
     transition: ease-in-out 0.4s;
 }
